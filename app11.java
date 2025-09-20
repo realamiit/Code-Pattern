@@ -3,9 +3,9 @@ public class app11 {
         for (int i = 1; i <= 5; i++) {
             for (int j = 1; j <= i; j++) {
                 int num = i + j;
-                if (num % 2 == 0) {
+                if (num % 2 == 0) { //even
                     System.out.print("1 ");
-                } else {
+                } else { //odd
                     System.out.print("0 ");
                 }
             }

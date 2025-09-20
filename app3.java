@@ -6,13 +6,13 @@ public class app3 {
             for(int j=1; j<=m; j++){
                 
                 if(i==1 || j==1 || n==i || m==j) {
-                    System.out.print("*");
+                    System.out.print("* ");
                 }else{
-                    System.out.print(" ");
+                    System.out.print("  ");
                 }
 
             }
-               System.out.println("");
+               System.out.println();
         }
     }
 

@@ -1,0 +1,113 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    
+    "configurations": [
+        {
+            "type": "java",
+            "name": "app14",
+            "request": "launch",
+            "mainClass": "app14",
+            "projectName": "code pattern_e9c55af0"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "app1",
+            "request": "launch",
+            "mainClass": "app1",
+            "projectName": "code pattern_e9c55af0"
+        },
+        {
+            "type": "java",
+            "name": "app10",
+            "request": "launch",
+            "mainClass": "app10",
+            "projectName": "code pattern_e9c55af0"
+        },
+        {
+            "type": "java",
+            "name": "app11",
+            "request": "launch",
+            "mainClass": "app11",
+            "projectName": "code pattern_e9c55af0"
+        },
+        {
+            "type": "java",
+            "name": "app12",
+            "request": "launch",
+            "mainClass": "app12",
+            "projectName": "code pattern_e9c55af0"
+        },
+        {
+            "type": "java",
+            "name": "app13",
+            "request": "launch",
+            "mainClass": "app13",
+            "projectName": "code pattern_e9c55af0"
+        },
+        {
+            "type": "java",
+            "name": "app2",
+            "request": "launch",
+            "mainClass": "app2",
+            "projectName": "code pattern_e9c55af0"
+        },
+        {
+            "type": "java",
+            "name": "app3",
+            "request": "launch",
+            "mainClass": "app3",
+            "projectName": "code pattern_e9c55af0"
+        },
+        {
+            "type": "java",
+            "name": "app4",
+            "request": "launch",
+            "mainClass": "app4",
+            "projectName": "code pattern_e9c55af0"
+        },
+        {
+            "type": "java",
+            "name": "app5",
+            "request": "launch",
+            "mainClass": "app5",
+            "projectName": "code pattern_e9c55af0"
+        },
+        {
+            "type": "java",
+            "name": "app6",
+            "request": "launch",
+            "mainClass": "app6",
+            "projectName": "code pattern_e9c55af0"
+        },
+        {
+            "type": "java",
+            "name": "app7",
+            "request": "launch",
+            "mainClass": "app7",
+            "projectName": "code pattern_e9c55af0"
+        },
+        {
+            "type": "java",
+            "name": "app8",
+            "request": "launch",
+            "mainClass": "app8",
+            "projectName": "code pattern_e9c55af0"
+        },
+        {
+            "type": "java",
+            "name": "app9",
+            "request": "launch",
+            "mainClass": "app9",
+            "projectName": "code pattern_e9c55af0"
+        }
+    ]
+}

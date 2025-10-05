@@ -36,9 +36,9 @@
 		{
 			"id": "pointer:pointer",
 			"typeName": "pointer",
-			"x": 146.7808243112577,
-			"y": 321.40869541113517,
-			"lastActivityTimestamp": 1759511733924,
+			"x": 24.221926887697236,
+			"y": 302.88738353977794,
+			"lastActivityTimestamp": 1759607064932,
 			"meta": {}
 		},
 		{
@@ -792,9 +792,60 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 89.56094007812288,
-			"y": 37.76860169804593,
-			"z": 1.029018284502448,
+			"x": -10.538251848973516,
+			"y": 269.3072934085031,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:vsvq4_stSzU08WqQmRKGB",
+			"type": "text",
+			"props": {
+				"color": "black",
+				"size": "m",
+				"w": 214.4875030517578,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": " javac app16.java "
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": " java app16"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aE6v7t3V",
+			"typeName": "shape"
+		},
+		{
+			"x": 341.91862689188656,
+			"y": 9.95422509025876,
+			"z": 0.6904452414302709,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
@@ -2145,10 +2196,12 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": null,
+			"editingShapeId": "shape:vsvq4_stSzU08WqQmRKGB",
 			"croppingShapeId": null,
-			"selectedShapeIds": [],
-			"hoveredShapeId": null,
+			"selectedShapeIds": [
+				"shape:vsvq4_stSzU08WqQmRKGB"
+			],
+			"hoveredShapeId": "shape:vsvq4_stSzU08WqQmRKGB",
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -4573,15 +4626,12 @@
 		},
 		{
 			"followingUserId": null,
-			"opacityForNextShape": 0.75,
-			"stylesForNextShape": {
-				"tldraw:color": "black",
-				"tldraw:dash": "draw"
-			},
+			"opacityForNextShape": 1,
+			"stylesForNextShape": {},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "cross",
+				"type": "default",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -4592,7 +4642,7 @@
 				"x": 0,
 				"y": 0,
 				"w": 1188,
-				"h": 702.4000244140625
+				"h": 515.2000122070312
 			},
 			"insets": [
 				false,
